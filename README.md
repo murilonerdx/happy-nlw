@@ -7,11 +7,10 @@
 <main>
 
       # Clone the repository
-      $ git clone https://github.com/TiagoSansao/Happy-NLW-03
+      $ git clone https://github.com/n30config/happy-nlw
 
       # Go to the directory
-      $ cd Happy-NLW-3
-
+      $ cd frontend
       # Install all the dependencies
       $ yarn install
 
