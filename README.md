@@ -3,7 +3,7 @@
 <h3 align="center">E claro, é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜</h3>
 
 <p align="center">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-sizen30config/happy-nlw">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/n30config/happy-nlw">
   
   <a href="https://www.instagram.com/ian_1408/">
     <img alt="Feito por Murilo Pereira" src="https://img.shields.io/badge/made%20by-Murilo%20Pereira-%2304D361">
