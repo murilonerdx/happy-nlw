@@ -1,0 +1,9 @@
+node_modules
+yarn.lock
+
+web/public/favicon.ico
+
+backend/src/database/database.sqlite
+backend/uploads
+
+mobile/.expo*
