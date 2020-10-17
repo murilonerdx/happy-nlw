@@ -1,6 +1,6 @@
 </header>
   <div align="center" ><img src="./frontend/src/images/Logo.svg" alt="logo" /></div>
-  <h1 align="center"> Happy </h1>
+  <p align="center"> Happy </p>
   </p>
   <hr/>
 </header>
