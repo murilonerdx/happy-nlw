@@ -1,4 +1,4 @@
-<h1> Happy-Rocketseat-NLW </h1>
+<h1> Happy-NLW </h1>
 <h3 align="center">Criado no Dia das Crianças, este projeto contempla o Backend, o Frontend e também o Mobile.</h3>
 <h3 align="center">E claro, é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜</h3>
 
